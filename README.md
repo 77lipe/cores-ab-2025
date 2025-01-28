@@ -1,9 +1,9 @@
 ## TROCAR COR DA PAGE
 ![](./img/image.png)
----
+
 ## Sobre
 Projeto para trocar a cor da página tilizando o JS. O intuito deste projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação, HTML, CSS e JavaScript, realizadas no curso técnico de desenvolvimento de sistemas SENAI JANDIRA
----
+
 ## Tecnologias utilizadas
 - HTML
 - CSS
